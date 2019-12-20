@@ -15,3 +15,6 @@ Here I have implemented some computational problems using c++.
   b.Lagrange interpolation.
 5.For curve fitting:
   a.Least square fit method.
+6.to solve ordinary differential equations there are:
+  a.Runge Kutta 2nd order method
+  b.Rung Kutta 4th Order method.
