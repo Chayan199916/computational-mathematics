@@ -15,6 +15,6 @@
 #####  b.Lagrange interpolation.
 #### 5.For curve fitting:
 #####  Least square fit method.
-#### 6.to solve ordinary differential equations there are:
+#### 6.To solve ordinary Differential equations there are:
 #####  a.Runge Kutta 2nd order method
 #####  b.Rung Kutta 4th Order method.
